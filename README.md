@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Currently working as an Backend Developer at [UNIDA Gontor](https://unida.gontor.ac.id/) in Ponorogo, Indonesia.
+
 ## About me
 - 🔭 I'm currently struggling to improve my skills and keep trying to learn something new. I hear and I forget; I see and I remember; I do and I understand - Confucius
 - 🌱 I’m currently learning Javascript & PHP.
