@@ -8,6 +8,8 @@
 - ⚡ Fun fact: i like to sleep :)
 
 ## Github Stats
+[![nashehannafii's Github Stats](https://github-readme-stats.vercel.app/api?username=nashehannafii&show_icons=true&line_height=21&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashehannafii&show_icons=true&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nashehannafii&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nashehannafii&theme=github_dark)
