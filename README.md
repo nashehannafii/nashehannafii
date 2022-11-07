@@ -1,13 +1,21 @@
-### Hi there 👋
+### Hii there&nbsp;<a href="Hey"><img src="https://user-images.githubusercontent.com/84166927/131398029-d0af4153-3ebe-4918-bceb-59afe3c10fca.gif" width="48px"></a>
 
-### Currently working as an Backend Developer at [UNIDA Gontor](https://unida.gontor.ac.id/) in Ponorogo, Indonesia.
+#### Me as Nasheh
 
 ## About me
-- 🔭 I'm currently struggling to improve my skills and keep trying to learn something new. I hear and I forget; I see and I remember; I do and I understand - Confucius
-- 🌱 I’m currently learning Javascript & PHP.
-- 👯 I’m looking to collaborate on some projects, especially in Backend Developer
-- 📫 How to reach me: [linked in](https://www.linkedin.com/in/nashehannafii/) or [WhatsApp](https://api.whatsapp.com/send?phone=6285219370971)
-- ⚡ Fun fact: i like to sleep :)
+
+-  I’m jobless
+-  I’m currently learning how to be better
+-  I’m looking to .....nothing
+-  Ask me about how to be lazy
+-  Fun fact: i'm a human
+
+![Jaune](https://iili.io/pxF2Ie.jpg)
+
+<p align="center">
+  <a href="https://instagram.com/nashehannafii"><img src="https://img.shields.io/badge/nashehannafii-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6285219370971"><img src="https://img.shields.io/badge/WassapMe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
 
 ## Github Stats
 [![nashehannafii's Github Stats](https://github-readme-stats.vercel.app/api?username=nashehannafii&show_icons=true&line_height=21&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
