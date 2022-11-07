@@ -1,7 +1,7 @@
 ### Hii &nbsp;<a href="Hey"><img src="https://user-images.githubusercontent.com/84166927/131398029-d0af4153-3ebe-4918-bceb-59afe3c10fca.gif" width="48px"></a>
 
 <p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hello+there!.;My+name+is+Nasheh;Age:😏;Huwalahumbaa...;Goodbye+and+Thank+you🥳..." alt="nasheh">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hello+there!...;My+name+is+Nasheh;Age:😏;Huwalahumbaa...;Goodbye+and+Thank+you🥳..." alt="nasheh">
 </p>
 
 ## About me
@@ -50,8 +50,8 @@
    <summary>&#127942 <b>My Jobless Project</summary>
    <a href="https://github.com/nashehannafii/nashehannafii.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=nashehannafii.github.io">
-   <a href="https://github.com/virgantara/siakadv2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=virgantara&repo=siakadv2">
+   <a href="https://github.com/nashehannafii/reynaldi-spk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=reynaldi-spk">
    <a href="https://github.com/nashehannafii/mywarung">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=mywarung">
   </a>
