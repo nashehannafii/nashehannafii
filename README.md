@@ -52,26 +52,19 @@
 
 ##
 
-<details>
-    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/nashehannafii?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
-
-</details>
 
 ##
     
 ### What is this ?
-<details>
-   <summary>&#127942 <b>My Jobless Project</summary>
-   <a href="https://github.com/nashehannafii/nashehannafii.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=nashehannafii.github.io">
-   <a href="https://github.com/nashehannafii/reynaldi-spk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=reynaldi-spk">
-   <a href="https://github.com/nashehannafii/mywarung">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=mywarung">
-  </a>
-</details>
+<a href="https://github.com/nashehannafii/nashehannafii.github.io">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=nashehannafii.github.io">
+<a href="https://github.com/nashehannafii/reynaldi-spk">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=reynaldi-spk">
+<a href="https://github.com/nashehannafii/mywarung">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=mywarung">
+</a>
 
 <!--
 **nashehannafii/nashehannafii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
