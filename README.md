@@ -47,9 +47,9 @@
 <details>
    <summary>&#127942 <b>My Jobless Project</summary>
    <a href="https://gitlab.com/nashehannafii/my-warung">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=unx21&repo=ayame">
-   <a href="https://gitlab.com/nashehannafii/my-warung">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kokoronationz&repo=mirai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=nashehannafii.github.io">
+   <a href="https://gitlab.com/nashehannafii/nashehannafii.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=nashehannafii.github.io">
    <a href="https://gitlab.com/nashehannafii/my-warung">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizxyu&repo=Bot-Rain">
   </a>
