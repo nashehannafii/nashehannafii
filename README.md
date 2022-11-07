@@ -46,12 +46,12 @@
 ### What is this ?
 <details>
    <summary>&#127942 <b>My Jobless Project</summary>
-   <a href="https://gitlab.com/nashehannafii/my-warung">
+   <a href="https://github.com/nashehannafii/nashehannafii.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=nashehannafii.github.io">
-   <a href="https://gitlab.com/nashehannafii/nashehannafii.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=nashehannafii.github.io">
-   <a href="https://gitlab.com/nashehannafii/my-warung">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizxyu&repo=Bot-Rain">
+   <a href="https://github.com/virgantara/siakadv2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=virgantara&repo=siakadv2">
+   <a href="https://github.com/nashehannafii/mywarung">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=mywarung">
   </a>
 </details>
 
