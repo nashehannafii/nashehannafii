@@ -46,12 +46,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashehannafii&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="nashehannafii"/></p></a><br>
 
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=unx21)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=nashehannafii)
 
-</details>
 
 ##
 
