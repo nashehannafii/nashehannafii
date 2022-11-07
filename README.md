@@ -17,14 +17,43 @@
   <a href="https://wa.me/6285219370971"><img src="https://img.shields.io/badge/WassapMe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-## Github Stats
-[![nashehannafii's Github Stats](https://github-readme-stats.vercel.app/api?username=nashehannafii&show_icons=true&line_height=21&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashehannafii&show_icons=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nashehannafii&show_icons=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nashehannafii&show_icons=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nashehannafii&show_icons=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nashehannafii&show_icons=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nashehannafii&show_icons=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <a href="unx21"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=nashehannafii&label=PROFILE%20VISITORS&color=blue&style=flat-square" alt="unx21" /></a> </p><br> 
+
+
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nashehannafii&show_icons=true&theme=nightowl" alt="unx21" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashehannafii&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="unx21"/></p></a><br>
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=unx21)
+
+</details>
+
+##
+
+<details>
+    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/unx21?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FMakassar)
+
+</details>
+
+##
+    
+### What is this ?
+<details>
+   <summary>&#127942 <b>My Jobless Project</summary>
+   <a href="https://github.com/unx21/ayame">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=unx21&repo=ayame">
+   <a href="https://github.com/Kokoronationz/mirai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kokoronationz&repo=mirai">
+   <a href="https://github.com/Rizxyu/Bot-Rain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizxyu&repo=Bot-Rain">
+  </a>
+</details>
 
 <!--
 **nashehannafii/nashehannafii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
