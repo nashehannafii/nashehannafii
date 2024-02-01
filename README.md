@@ -1,82 +1,37 @@
-### Hii &nbsp;<a href="Hey"><img src="https://user-images.githubusercontent.com/84166927/131398029-d0af4153-3ebe-4918-bceb-59afe3c10fca.gif" width="48px"></a>
+# Howdy there, partner! 🤠
 
+I'm Nasheh Annafii, a Web PHP Developer at [Universitas Darussalam Gontor](https://unida.gontor.ac.id), stationed in the [PPTIK UNIDA](https://pptik.unida.gonto.ac.id).
 
-<p align="center">
-<br/>
-<a href="https://twitter.com/annafii">
-  <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
-</a>
-<a href="https://www.linkedin.com/in/nasheh-annafii-18a6a0194">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://www.instagram.com/nashehannafii">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
-</a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
-<br>
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1615?logoColor=white%26project=%26recentMS=0%26showProject=false" />
-</p>
+## As of now I code with:
+[![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com)
+[![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)](https://www.npmjs.com/package/nodemon)
+[![Node.js With Restify](https://img.shields.io/badge/-Node.js%20With%20Restify-43853d?style=flat-square&logo=Node.js&logoColor=white)](http://restify.com)
+[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://www.expressjs.com)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://www.prettier.io)
+[![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+[![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://www.github.com/features/actions)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![TS-Node](https://img.shields.io/badge/-TypeScript%20Node-3178C6?style=flat-square&logo=ts-node&logoColor=white)](https://www.npmjs.com/package/ts-node)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://www.git-scm.com)
+[![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-yellow?style=flat-square&logo=Elasticsearch)](https://www.elastic.co/)
+[![AOL (America Online)](https://img.shields.io/badge/-AOL-3399FF?style=flat-square&logo=aol&logoColor=white)](https://www.aol.com)
 
-<p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hello+there!....🖐️;My+name+is+Nasheh;Age:😏;Huwalahumbaa...;Goodbye+and+Thank+you.....🥳" alt="nasheh">
-</p>
+## #TemanBertumbuhBersama 🌱
+![Agree Culture](./public/img/agree-culture.jpg)
 
-## About me
+Pictures from [Agree Culture](https://www.instagram.com/agreeculture.id/)! A collaboration Digital Platform for the Agriculture Industry 4.0 by Telkom Indonesia.
 
--  I’m jobless
--  I’m currently learning how to be better
--  I’m looking to .....nothing
--  Ask me about how to be lazy
--  Fun fact: i'm a human
+Currently, the weather is at **29°C**, with **overcast clouds**. 
+Today, the sun will rise at **05:26** and set at **17:51**, Western Indonesian Time.
 
-![Jaune](https://iili.io/pxF2Ie.jpg)
+## Social Medias:
+[![Instagram](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nashehannafii)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasheh-annafii-18a6a0194/)
+[![WA Business](https://img.shields.io/badge/WA%20Business-%2312100E.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/6285219370971)
 
-<p align="center">
-  <a href="https://instagram.com/nashehannafii"><img src="https://img.shields.io/badge/nashehannafii-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6285219370971"><img src="https://img.shields.io/badge/WassapMe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
+---
 
-<p align="center"> <a href="nashehannafii"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=nashehannafii&label=PROFILE%20VISITORS&color=blue&style=flat-square" alt="nashehannafii" /></a> </p><br> 
-
-
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nashehannafii&show_icons=true&theme=nightowl" alt="nashehannafii" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashehannafii&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="nashehannafii"/></p></a><br>
-
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=nashehannafii)
-
-
-##
-
-
-![Metrics](https://metrics.lecoq.io/nashehannafii?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
-
-##
-    
-### What is this ?
-<a href="https://github.com/nashehannafii/nashehannafii.github.io">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=nashehannafii.github.io">
-<a href="https://github.com/nashehannafii/reynaldi-spk">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=reynaldi-spk">
-<a href="https://github.com/nashehannafii/mywarung">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nashehannafii&repo=mywarung">
-</a>
-
-<!--
-**nashehannafii/nashehannafii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*This README file will be updated to keep up with [@agreeculture.id](https://www.instagram.com/agreeculture.id/)'s posts!*  
+*Last updated at: Wednesday, 21 December, 18:21 GMT+7*
