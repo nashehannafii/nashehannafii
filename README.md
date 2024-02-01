@@ -14,13 +14,12 @@ I'm Nasheh Annafii, a Web PHP Developer at [Universitas Darussalam Gontor](https
 [![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://www.github.com/features/actions)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://www.git-scm.com)
 
-## #TemanBertumbuhBersama 🌱
-![Agree Culture](./public/img/agree-culture.jpg)
+## #Coding Companionship 🚀
 
-Pictures from [Agree Culture](https://www.instagram.com/agreeculture.id/)! A collaboration Digital Platform for the Agriculture Industry 4.0 by Telkom Indonesia.
+Embarking on a digital odyssey of creativity and innovation! Navigating through lines of code and algorithms, sculpting solutions for the vast tech landscape.
 
-Currently, the weather is at **29°C**, with **overcast clouds**. 
-Today, the sun will rise at **05:26** and set at **17:51**, Western Indonesian Time.
+Embrace the coding journey, where every keystroke is a brushstroke on the canvas of possibilities! 💻✨ #CodeCrafting #InnovationWeather
+
 
 ## Social Medias:
 [![Instagram](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nashehannafii)
@@ -29,5 +28,4 @@ Today, the sun will rise at **05:26** and set at **17:51**, Western Indonesian T
 
 ---
 
-*This README file will be updated to keep up with [@agreeculture.id](https://www.instagram.com/agreeculture.id/)'s posts!*  
-*Last updated at: Wednesday, 21 December, 18:21 GMT+7*
+*This code repository is a canvas where logic meets creativity, and bugs are mere puzzles waiting to be solved. Every commit is a step towards refining the masterpiece, a symphony of algorithms orchestrated by a passionate coder.*
