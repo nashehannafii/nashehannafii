@@ -3,7 +3,7 @@
 I'm Nasheh Annafii, a Web Developer at [Universitas Darussalam Gontor](https://unida.gontor.ac.id), stationed in the [PPTIK UNIDA](https://pptik.unida.gontor.ac.id).
 
 ## As of now I code with:
-[![Yii](https://img.shields.io/badge/-yii-framework?style=flat-square&logo=yii&logoColor=white)](https://www.yiiframework.com)
+[![Yii](https://img.shields.io/badge/-Yii2-000000?style=flat-square&logo=yii&logoColor=white)](https://www.yiiframework.com)
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
