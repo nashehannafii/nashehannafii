@@ -14,6 +14,7 @@ I'm Nasheh Annafii, a Software Engineer at [Universitas Darussalam Gontor](https
 [![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://www.github.com/features/actions)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://www.git-scm.com)
 [![ESP](https://img.shields.io/badge/-ESP-000000?style=flat-square&logo=esphome&logoColor=white)](https://github.com/nashehannafii)
+[![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=#00878F)](https://github.com/nashehannafii)
 
 ## #Coding Companionship 🚀
 
