@@ -1,6 +1,6 @@
 # Howdy there, partner! 🤠
 
-I'm Nasheh Annafii, a Web Developer at [Universitas Darussalam Gontor](https://unida.gontor.ac.id), stationed in the [PPTIK UNIDA](https://pptik.unida.gontor.ac.id).
+I'm Nasheh Annafii, a Software Engineer at [Universitas Darussalam Gontor](https://unida.gontor.ac.id), stationed in the [PPTIK UNIDA](https://pptik.unida.gontor.ac.id).
 
 ## As of now I code with:
 [![Yii](https://img.shields.io/badge/-Yii2-000000?style=flat-square&logo=yii&logoColor=white)](https://www.yiiframework.com)
