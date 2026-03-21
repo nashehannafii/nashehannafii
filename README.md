@@ -9,7 +9,7 @@
 ### 🧠 Research & Focus
 
 - **Digital Twin** & **Machine Learning**
-- **Computer Vision** applications
+- **Deep Learning** applications
 - Data-driven AI systems
 
 ---
@@ -64,4 +64,4 @@
 
 ---
 
-> *Advancing intelligent systems and digital twin technologies through machine learning, computer vision, and data-driven modeling for real-world impact.*
+> *Advancing intelligent systems and digital twin technologies through deep learning and data-driven modeling for real-world impact.*
