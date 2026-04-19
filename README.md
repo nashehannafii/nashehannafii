@@ -9,7 +9,7 @@
 
 ### 🧠 Research & Focus
 
-- **Digital Twin**, **Machine Learning**, & **Artificial Intelligence**
+- **Modeling**, **Machine Learning**, & **Artificial Intelligence**
 
 ---
 
