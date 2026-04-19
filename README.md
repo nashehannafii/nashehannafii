@@ -55,9 +55,10 @@
 
 ### 🔗 Connect
 
-- **LinkedIn:** [id.linkedin.com/in/nashehannafii](https://id.linkedin.com/in/nashehannafii)  
-- **Portfolio:** [nashehannafii.github.io](https://nashehannafii.github.io)  
-- **Google Scholar:** [scholar.google.com/citations?user=g-D2WqoAAAAJ&hl=en](https://scholar.google.com/citations?user=g-D2WqoAAAAJ&hl=en)  
+- **LinkedIn:** [nashehannafii](https://id.linkedin.com/in/nashehannafii)
+- **ORCID:** [0009-0003-1138-4054]https://orcid.org/0009-0003-1138-4054
+- **Portfolio:** [nashehannafii](https://nashehannafii.github.io)  
+- **Google Scholar:** [Moch. Nasheh Annafii](https://scholar.google.com/citations?user=g-D2WqoAAAAJ&hl=en)  
 - **GitHub:** [@nashehannafii](https://github.com/nashehannafii)  
 - **Twitter:** [@nashehannafii](https://twitter.com/nashehannafii)
 
