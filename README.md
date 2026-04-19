@@ -1,8 +1,9 @@
 # Hi there 👋 I'm Nasheh
 
 🔭 Currently I work as a researcher and lecturer at Universitas Darussalam Gontor (UNIDA Gontor), Indonesia.
-🎓 Master of Computer (2024 – 2026) - Universitas Ahmad Dahlan
-🎓 Bachelor of Computer (2019 – 2022) - Universitas Darussalam Gontor
+
+- 🎓 Master of Computer (2024 – 2026) - Universitas Ahmad Dahlan
+- 🎓 Bachelor of Computer (2019 – 2022) - Universitas Darussalam Gontor
 
 ---
 
