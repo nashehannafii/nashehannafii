@@ -15,12 +15,12 @@
 
 ### 💻 Skills
 
-**Programming:** Python, SQL, JavaScript, PHP, etc.
-**Machine Learning:** Scikit-learn, TensorFlow, PyTorch, etc.
-**Cloud Platforms:** GCP, AWS, Azure, etc.
-**Visualization:** Tableau  
-**Technical:** LaTeX  
-**Languages:** English | Arabic | Bahasa Indonesia
+- **Programming:** Python, SQL, JavaScript, PHP, etc.
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, etc.
+- **Cloud Platforms:** GCP, AWS, Azure, etc.
+- **Visualization:** Tableau
+- **Technical:** LaTeX
+- **Languages:** English | Arabic | Bahasa Indonesia
 
 ---
 
