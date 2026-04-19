@@ -1,26 +1,24 @@
 # Hi there 👋 I'm Nasheh
 
 🔭 I’m currently working on my **Master in Informatics** at Universitas Ahmad Dahlan (UAD)  
-🎓 Master Student in Informatics (2023 – Present)  
+🎓 Master Student in Informatics (2024 – 2026)  
 🎓 Bachelor of Science (Informatics) (2019 – 2022) - Universitas Darussalam Gontor
 
 ---
 
 ### 🧠 Research & Focus
 
-- **Digital Twin** & **Machine Learning**
-- **Deep Learning** applications
-- Data-driven AI systems
+- **Digital Twin**, **Machine Learning**, & **Artificial Intelligence**
 
 ---
 
 ### 💻 Skills
 
-**Programming:** Python | SQL | JavaScript | PHP  
-**Machine Learning:** Scikit-learn | TensorFlow | PyTorch  
-**Cloud Platforms:** AWS  
+**Programming:** Python, SQL, JavaScript, PHP, etc.
+**Machine Learning:** Scikit-learn, TensorFlow, PyTorch, etc.
+**Cloud Platforms:** GCP, AWS, Azure, etc.
 **Visualization:** Tableau  
-**Technical:** Git | LaTeX  
+**Technical:** LaTeX  
 **Languages:** English | Arabic | Bahasa Indonesia
 
 ---
