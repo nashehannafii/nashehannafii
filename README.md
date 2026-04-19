@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Nasheh
 
-🔭 I’m currently working on my **Master in Informatics** at Universitas Ahmad Dahlan (UAD)  
-🎓 Master Student in Informatics (2024 – 2026)  
-🎓 Bachelor of Science (Informatics) (2019 – 2022) - Universitas Darussalam Gontor
+🔭 Currently I work as a researcher and lecturer at Universitas Darussalam Gontor (UNIDA Gontor), Indonesia.
+🎓 Master of Computer (2024 – 2026) - Universitas Ahmad Dahlan
+🎓 Bachelor of Computer (2019 – 2022) - Universitas Darussalam Gontor
 
 ---
 
