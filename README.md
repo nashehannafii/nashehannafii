@@ -44,15 +44,6 @@
 
 ---
 
-### 📣 Recent News
-
-- **2022** — Presented at CENIM 2022 (Semantic Segmentation of Rice Leaf Blast Disease...)  
-- **2022** — Paper published in Prosiding Sains Nasional dan Teknologi (Segmentasi Semantik pada Citra Hama Leafblast…)  
-
-[More news...](/nashehannafii.github.io/news/)
-
----
-
 ### 🔗 Connect
 
 - **LinkedIn:** [nashehannafii](https://id.linkedin.com/in/nashehannafii)
